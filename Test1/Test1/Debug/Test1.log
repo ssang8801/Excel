@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(22,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(157,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(193,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaehw\Desktop\Test1\Test1\Source.cpp(196,21): warning C4018: '<': signed/unsigned mismatch
+  Test1.vcxproj -> C:\Users\jaehw\Desktop\Test1\Debug\Test1.exe
